@@ -1,4 +1,7 @@
 Github Workflow cabang DEV
 1. Katakanlah jika perusahaan Anda 
 bergantung pada aplikasi perangkat lunak penting yang mengubah aliran 
-pengembangan Anda berdampak pada seluruh bisnis Anda
+pengembangan Anda berdampak pada seluruh bisnis Anda.
+2. Ini memberikan kebebasan bagi pengembang untuk melanjutkan pengembangan atau 
+perbaikan baru pada cabang fitur dan bergabung ke badan kode utama ketika 
+pengembang puas dengan kode tersebut.
