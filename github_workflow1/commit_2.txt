@@ -1,0 +1,4 @@
+Github Workflow cabang DEV
+1. Git membantu organisasi membantu memudahkan proses pengembangan dan 
+mengelola repositori. Ini membantu meningkatkan kinerja dan mengubah cara tim 
+pengembangan Anda membuat perangkat lunak.
