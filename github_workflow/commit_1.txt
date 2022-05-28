@@ -1,3 +1,7 @@
 Github Workflow
 1. Git adalah sistem kontrol versi terdistribusi untuk melacak perubahan kode sumber 
 selama pengembangan perangkat lunak.
+2. Git dirancang untuk mengoordinasikan 
+pekerjaan di antara pemrogram, tetapi dapat digunakan untuk melacak perubahan 
+dalam kumpulan file apa pun. Sasarannya mencakup kecepatan, integritas data, dan 
+dukungan untuk alur kerja non-linier terdistribusi
