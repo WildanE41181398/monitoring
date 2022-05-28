@@ -1,0 +1,3 @@
+Github Workflow
+1. Git Workflow membuat pengembangan paralel menjadi sangat mudah. Ini 
+membantu mengisolasi pengembangan dari pekerjaan yang sudah selesai.
