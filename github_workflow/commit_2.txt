@@ -1,3 +1,4 @@
 Github Workflow
 1. Git Workflow membuat pengembangan paralel menjadi sangat mudah. Ini 
 membantu mengisolasi pengembangan dari pekerjaan yang sudah selesai.
+2. Membantu pengerjaan sebuah projek secara terkoordinasi per bagian fitur.
