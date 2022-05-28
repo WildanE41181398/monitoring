@@ -1,1 +1,2 @@
 Ini adalah fitur untuk lupa password.
+Fix lupa password.
